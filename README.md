@@ -1,4 +1,4 @@
-# A-Neural-Index-of-Acting-Against-Environmental-Preferences
+# Info on repository content
 
 In this repository we have stored all the data needed to reproduce the results reported in the paper 'A Neural Index of Acting Against Environmental Preferences' .
 
